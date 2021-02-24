@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.layout.HBox?>
+
+<StackPane fx:controller="unsw.gloriaromanus.ui.loseMenu.LoseMenuController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="defeat_text" StackPane.alignment="TOP_CENTER" layoutX="280.0" layoutY="64.0" text="Defeat for Faction">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label fx:id="you_lost_text" layoutX="330.0" StackPane.alignment="TOP_CENTER" layoutY="117.0" text="You Lost!">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <HBox fx:id="buttons" StackPane.alignment="TOP_CENTER" maxWidth="300.0" >
+        <Button fx:id="end_btn" onMouseClicked="#onEndButton" maxHeight="30.0" prefWidth="200.0" layoutX="300.0" layoutY="300.0" mnemonicParsing="false" text="End Game For All" />
+        <Button fx:id="play_btn" onMouseClicked="#onPlayButton" maxHeight="30.0" prefWidth="200.0"  layoutX="410.0" layoutY="300.0" mnemonicParsing="false" text="Keep Playing" />
+      </HBox>
+   </children>
+</StackPane>

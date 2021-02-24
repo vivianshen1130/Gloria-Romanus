@@ -1,0 +1,6 @@
+{"number":0,"type":"turnNumber"}
+{"wealth":0,"allConquered":false,"treasury":0,"name":"Rome","type":"faction"}
+{"wealth":0,"allConquered":false,"treasury":0,"name":"Gaul","type":"faction"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Rome","name":"A","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Rome","name":"B","type":"province"}
+{"cost":10,"shieldDefense":3,"available":false,"type":"unit","recruitmentStart":1,"numTroops":50,"speed":10,"armour":5,"province":"A","ranged":false,"rangedAttackDamage":0,"movementPoints":15,"name":"class unsw.gloriaromanus.unit.cavalry.Chariot","turnsToRecruit":1,"morale":10,"defenseSkill":10,"meleeAttackDamage":6}

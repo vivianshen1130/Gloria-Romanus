@@ -1,0 +1,58 @@
+{"number":9,"type":"turnNumber"}
+{"number":24,"type":"totalTurn"}
+{"wealth":4910,"allConquered":true,"treasury":30,"name":"Gaul","type":"faction"}
+{"wealth":5000,"allConquered":true,"treasury":1000,"name":"Rome","type":"faction"}
+{"wealth":4990,"allConquered":true,"treasury":40,"name":"Celtic Briton","type":"faction"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Mauretania Tingitana","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Moesia Inferior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Gaul","name":"Moesia Superior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Narbonensis","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Gaul","name":"Noricum","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Numidia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Gaul","name":"Pannonia Inferior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Gaul","name":"Pannonia Superior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Gaul","name":"Raetia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Sardinia et Corsica","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Sicilia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Syria","type":"province"}
+{"wealth":0,"taxRate":"very high","landlocked":false,"treasury":0,"faction":"Gaul","name":"Tarraconensis","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"Thracia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"V","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"VI","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"VII","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Gaul","name":"VIII","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Creta et Cyrene","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Cyprus","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Rome","name":"Dacia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Dalmatia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Galatia et Cappadocia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Germania Inferior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Rome","name":"Germania Superior","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"I","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"II","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"III","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"IV","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"IX","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Iudaea","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Lugdunensis","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Lusitania","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Lycia et Pamphylia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Macedonia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Rome","name":"Mauretania Caesariensis","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"X","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Celtic Briton","name":"XI","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Achaia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Aegyptus","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Africa Proconsularis","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Celtic Briton","name":"Alpes Cottiae","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":true,"treasury":0,"faction":"Celtic Briton","name":"Alpes Graiae et Poeninae","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Alpes Maritimae","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Aquitania","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Arabia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Armenia Mesopotamia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Asia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Baetica","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Belgica","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Bithynia et Pontus","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Britannia","type":"province"}
+{"wealth":0,"taxRate":"low","landlocked":false,"treasury":0,"faction":"Celtic Briton","name":"Cilicia","type":"province"}
